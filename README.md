@@ -91,11 +91,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenJourney](https://huggingface.co/prompthero/openjourney) for the artistic model
 
 ## 📧 Contact
-
-Made with ❤️ by Shafique
-
 Feel free to reach out:
-- LinkedIn: https://www.linkedin.com/in/shafique17z/
+- LinkedIn: [https://www.linkedin.com/in/shafique17z/](https://www.linkedin.com/in/shafique7z/)
 
 ---
 
