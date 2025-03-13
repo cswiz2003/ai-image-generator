@@ -5,9 +5,10 @@ package-lock.json
 # Environment variables
 .env
 
-# Generated images
-generated-images/
-*.png
+# Generated images (except showcase images)
+generated-images/*
+!generated-images/terminal-app.png
+!generated-images/generated-stable-diffusion-xl-2025-03-13T10-34-00-758Z.png
 
 # IDE files
 .vscode/
