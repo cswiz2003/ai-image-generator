@@ -1,0 +1,10 @@
+{
+  "name": "image-generation-test",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@huggingface/inference": "^2.6.4",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.5"
+  }
+}
